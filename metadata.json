@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix 만화 리더",
+  "description": "최신 만화 소식과 챕터 읽기 기능을 제공하는 한글 만화 리더 애플리케이션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
